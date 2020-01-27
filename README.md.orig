@@ -1,7 +1,8 @@
-
 # MySecondDemoRepo
 Second demo repo
 Added new line
+<<<<<<< HEAD
 Resolve conflicts check
+=======
 Added 4th line.
-
+>>>>>>> fdc198e10b241e95aaaf02175c0cbffecc9fd033
